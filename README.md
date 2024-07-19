@@ -1,3 +1,4 @@
 - install tailwind css and redux toolkit
 - craete components TaskInput , TaskItem and Task List
 - create taskSlice 
+- finish with todo app

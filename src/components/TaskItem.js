@@ -1,4 +1,3 @@
-// src/components/TaskItem.js
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { removeTask, editTask, toggleEditing } from '../features/tasks/tasksSlice';
